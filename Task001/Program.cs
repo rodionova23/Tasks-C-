@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//  1. По двум заданным числам проверять является ли первое квадратом второго
+
+int a = 10;
+int b = 10;
+int z = a/b;
+if (z == b)
+{
+    Console.WriteLine("Первое является квадратом второго");
+}
+else
+{
+    Console.WriteLine("Первое не является квадратом второго");
+}
