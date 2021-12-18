@@ -1,0 +1,16 @@
+C:\Users\lelya\Desktop\Task\Task011\bin\Debug\net6.0\Task011.exe
+C:\Users\lelya\Desktop\Task\Task011\bin\Debug\net6.0\Task011.deps.json
+C:\Users\lelya\Desktop\Task\Task011\bin\Debug\net6.0\Task011.runtimeconfig.json
+C:\Users\lelya\Desktop\Task\Task011\bin\Debug\net6.0\Task011.dll
+C:\Users\lelya\Desktop\Task\Task011\bin\Debug\net6.0\ref\Task011.dll
+C:\Users\lelya\Desktop\Task\Task011\bin\Debug\net6.0\Task011.pdb
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.GlobalUsings.g.cs
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.csproj.AssemblyReference.cache
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.AssemblyInfoInputs.cache
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.AssemblyInfo.cs
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.csproj.CoreCompileInputs.cache
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.dll
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\ref\Task011.dll
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.pdb
+C:\Users\lelya\Desktop\Task\Task011\obj\Debug\net6.0\Task011.genruntimeconfig.cache
