@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lelya\\Desktop\\Task\\Task004\\Task004.csproj": {}
+    "C:\\Users\\User\\Desktop\\лёлик\\задачи\\Tasks-C-\\Task004\\Task004.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lelya\\Desktop\\Task\\Task004\\Task004.csproj": {
+    "C:\\Users\\User\\Desktop\\лёлик\\задачи\\Tasks-C-\\Task004\\Task004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lelya\\Desktop\\Task\\Task004\\Task004.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\лёлик\\задачи\\Tasks-C-\\Task004\\Task004.csproj",
         "projectName": "Task004",
-        "projectPath": "C:\\Users\\lelya\\Desktop\\Task\\Task004\\Task004.csproj",
-        "packagesPath": "C:\\Users\\lelya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lelya\\Desktop\\Task\\Task004\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\лёлик\\задачи\\Tasks-C-\\Task004\\Task004.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\лёлик\\задачи\\Tasks-C-\\Task004\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lelya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
